@@ -1,4 +1,6 @@
 import { Component } from '@angular/core';
+import { Tasks } from 'src/app/models/Tasks';
+import { TASKS } from 'src/app/mock-tasks';
 
 @Component({
   selector: 'app-header',
